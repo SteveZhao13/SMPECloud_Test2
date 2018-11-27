@@ -1,0 +1,3 @@
+D:\CSC2228\CSC2228\python_app\obj\Debug\python_app.pyproj.CoreCompileInputs.cache
+D:\CSC2228\CSC2228\python_app\bin\Microsoft.PythonTools.WebRole.dll
+D:\CSC2228\CSC2228\python_app\bin\wfastcgi.py
